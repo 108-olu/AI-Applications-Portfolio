@@ -47,19 +47,19 @@
 > The following lab reflections document hands-on experiments and exercises conducted throughout the course. Each report includes objectives, methods, results, and key takeaways.
 
 * **Lab\_Report\_1.md**
-  *Description:* \[Add quick description here]
+  *Description:* \First Look into Azure; Creating and Testing my Content Safety Instance
 
 * **Lab\_Report\_2.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Getting started with Azure; Understanding Image analysis
 
 * **Lab\_Report\_3.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Analysing text with language studio
 
 * **Lab\_Report\_4.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Azure AI Document Intelligence
 
 * **Lab\_Report\_5.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Exploring Generative AI with Azure AI Foundry
 
 ---
 
