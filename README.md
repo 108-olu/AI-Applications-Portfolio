@@ -114,7 +114,7 @@ It includes class notes, lab reports, case studies, and resources I used through
 
 ## 📌 How to Navigate
 
-* Use the folders to locate **Notes**, **Lab Reports**, and **Case Studies**.
+* Use the folders to locate **Notes**, **Lab Reflections**, and **Case Studies**.
 * Check the **Resources** folder for all supplemental materials.
 * See the descriptions under each file to quickly understand its contents.
 
