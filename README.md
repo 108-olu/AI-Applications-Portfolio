@@ -12,35 +12,33 @@
 
 > Below are comprehensive notes from eight different class sessions. Each note includes quick descriptions of key topics and concepts discussed.
 
-* **01\_Class\_Note\_1.md**
-  *Description:* \[Add quick description here]
+* **A02\_Class\_Note\_1.md**
+  *Description:* \ Recent Advancements and Future Trends in AI
 
-* **02\_Class\_Note\_2.md**
-  *Description:* \[Add quick description here]
+* **A03\_Class\_Note\_2.md**
+  *Description:* \Analysis of AI Usecases in HealthCare and Agriculture
 
-* **03\_Class\_Note\_3.md**
-  *Description:* \[Add quick description here]
+* **A04(1)\_Class\_Note\_3.md**
+  *Description:* \Financial Fraud: Pattern recognition with Al in Finance
 
-* **04\_Class\_Note\_4.md**
-  *Description:* \[Add quick description here]
+* **04(2)\_Class\_Note\_4.md**
+  *Description:* \Feb 6 ClassNotes and Data Breaches Presentation
 
 * **05\_Class\_Note\_5.md**
-  *Description:* \[Add quick description here]
+  *Description:* \ Smart Cities
 
 * **06\_Class\_Note\_6.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Feb 20 Smart Cities ClassNotes
 
 * **07\_Class\_Note\_7.md**
-  *Description:* \[Add quick description here]
+  *Description:* \The role of AI in entertainment and Media
 
 * **08\_Class\_Note\_8.md**
-  *Description:* \[Add quick description here]
-  
-* **08\_Class\_Note\_8.md**
-  *Description:* \[Add quick description here]
+  *Description:* \AI use cases for blockchain technology
+ 
+* **09\_Class\_Note\_9.md**
+  *Description:* \AI use cases in the Retail Industry
 
-  * **08\_Class\_Note\_8.md**
-  *Description:* \[Add quick description here]
 
 ---
 
