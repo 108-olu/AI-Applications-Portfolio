@@ -1,8 +1,10 @@
-# AI-Applications-Portfolio
+# Obinna AI-Applications-Portfolio
+## 🗂️ Course Portfolio Repository
 
-*A curated collection of course notes, lab reflections, case studies, and resources*
+Welcome to my course portfolio! This repository contains all of my work for my Artificial Intel Applications course.  
+It includes class notes, lab reports, case studies, and resources I used throughout the semester.
 
-> **Instructor:** \[Instructor Name]
+> **Instructor:** \Anna Rachapudi
 > **Institution:** \Houston Community College
 > **Term:** \Spring semester / 2025
 
@@ -42,7 +44,7 @@
 
 ---
 
-## 🔬 Lab Reports
+## 💻 Lab Reports
 
 > The following lab reflections document hands-on experiments and exercises conducted throughout the course. Each report includes objectives, methods, results, and key takeaways.
 
@@ -100,14 +102,6 @@
 * **Other\_Resources.md**
   \[Other resources like videos, datasets, etc.]
 
----
-
-## ✅ Repository Guidelines
-
-* 📁 **Organization:** Each file is clearly named and placed in its appropriate folder.
-* 🖋 **Documentation:** Every document has clear headings, sections, and brief descriptions.
-* 🔗 **Links:** All external resources are properly cited and linked.
-* 💼 **Professional:** Content is clean, spell-checked, and well formatted using Markdown.
 
 ---
 
