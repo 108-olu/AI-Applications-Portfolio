@@ -1,6 +1,6 @@
 # AI-Applications-Portfolio
 
-*A curated collection of course notes, lab reports, case studies, and resources*
+*A curated collection of course notes, lab reflections, case studies, and resources*
 
 > **Instructor:** \[Instructor Name]
 > **Institution:** \Houston Community College
@@ -10,7 +10,7 @@
 
 ## 📝 Notes from Key Topics Covered
 
-> Below are comprehensive notes from eight different class sessions. Each note includes quick descriptions of key topics and concepts discussed.
+> Below are comprehensive notes from nine different class sessions. Each note includes quick descriptions of key topics and concepts discussed.
 
 * **A02\_Class\_Note\_1.md**
   *Description:* \ Recent Advancements and Future Trends in AI
@@ -44,7 +44,7 @@
 
 ## 🔬 Lab Reports
 
-> The following lab reports document hands-on experiments and exercises conducted throughout the course. Each report includes objectives, methods, results, and key takeaways.
+> The following lab reflections document hands-on experiments and exercises conducted throughout the course. Each report includes objectives, methods, results, and key takeaways.
 
 * **Lab\_Report\_1.md**
   *Description:* \[Add quick description here]
