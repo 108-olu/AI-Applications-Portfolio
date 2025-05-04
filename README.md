@@ -68,22 +68,22 @@
 > These six case studies analyze real-world applications and problems related to the course material. Each study contains background context, analysis, solutions, and conclusions.
 
 * **Case\_Study\_1.md**
-  *Description:* \[Add quick description here]
+  *Description:* \AI in Fraud Detection; A Case Study of JPMorgan Chase
 
 * **Case\_Study\_2.md**
-  *Description:* \[Add quick description here]
+  *Description:* \In depth case study analysis of Abuse of AI in entertainment and media
 
 * **Case\_Study\_3.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Ethical and Societal Implications of AI 
 
 * **Case\_Study\_4.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Advantages of using AI in Government and Public Sector
 
 * **Case\_Study\_5.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Advantages of using AI in Manufacturing Industry
 
 * **Case\_Study\_6.md**
-  *Description:* \[Add quick description here]
+  *Description:* \Leveraging Artificial General Intelligence in the Fashion Industry
 
 ---
 
