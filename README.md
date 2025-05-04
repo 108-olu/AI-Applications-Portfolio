@@ -89,18 +89,25 @@ It includes class notes, lab reports, case studies, and resources I used through
 
 ---
 
-## 🌐 Useful Resources
 
-> A curated list of helpful links, articles, and external resources used during the course.
+🌐 **Useful Resources**
+
+> A short list of helpful links, articles, and external resources used during the course.
 
 * **Useful\_Links.md**
-  \[List key websites, tools, or tutorials here]
+
+  * [The Important Difference Between Generative AI & AGI (Bernard Marr)](https://www.linkedin.com/pulse/important-difference-between-generative-ai-agi-bernard-marr-nynee) — Explains the key differences between generative AI and artificial general intelligence (AGI).
+  * [AI in Government Case Studies (GovNet Blog)](https://blog.govnet.co.uk/technology/ai-in-government-case-studies) — Highlights real-world examples of AI applications in government services.
+  * [Top AI Applications in Government (HCLTech)](https://www.hcltech.com/trends-and-insights/top-ai-applications-government-contributing-public-sector-innovation) — Discusses innovative AI solutions transforming the public sector.
+  * [IBM — Artificial Intelligence Solutions](https://www.ibm.com) — Provides resources and tools for implementing enterprise AI solutions.
 
 * **Articles\_Readings.md**
-  \[Include PDFs, academic papers, or articles used here]
+
+  * [AI and the Changing Epistemology of Science (Nature)](https://www.nature.com/articles/s41599-024-03606-0) — A scholarly article exploring how AI is reshaping scientific knowledge and research processes.
 
 * **Other\_Resources.md**
-  \[Other resources like videos, datasets, etc.]
+
+  * [Predictive Maintenance Explained (HistoryTools)](https://www.historytools.org/ai/predictive-maintenance) — A simple guide explaining predictive maintenance and how AI enhances it.
 
 
 ---
