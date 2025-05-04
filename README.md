@@ -3,39 +3,8 @@
 *A curated collection of course notes, lab reports, case studies, and resources*
 
 > **Instructor:** \[Instructor Name]
-> **Institution:** \[Your Institution]
-> **Term:** \[Semester / Year]
-
----
-
-## 📂 Repository Structure
-
-```bash
-├── /Notes/
-│   ├── 01_Class_Note_1.md
-│   ├── 02_Class_Note_2.md
-│   ├── ...
-│   └── 08_Class_Note_8.md
-│
-├── /Lab_Reports/
-│   ├── Lab_Report_1.md
-│   ├── Lab_Report_2.md
-│   ├── ...
-│   └── Lab_Report_5.md
-│
-├── /Case_Studies/
-│   ├── Case_Study_1.md
-│   ├── Case_Study_2.md
-│   ├── ...
-│   └── Case_Study_6.md
-│
-├── /Resources/
-│   ├── Useful_Links.md
-│   ├── Articles_Readings.md
-│   └── Other_Resources.md
-│
-└── README.md
-```
+> **Institution:** \Houston Community College
+> **Term:** \Spring semester / 2025
 
 ---
 
@@ -65,6 +34,12 @@
   *Description:* \[Add quick description here]
 
 * **08\_Class\_Note\_8.md**
+  *Description:* \[Add quick description here]
+  
+* **08\_Class\_Note\_8.md**
+  *Description:* \[Add quick description here]
+
+  * **08\_Class\_Note\_8.md**
   *Description:* \[Add quick description here]
 
 ---
